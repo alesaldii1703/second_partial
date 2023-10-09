@@ -1,14 +1,6 @@
 #https://replit.com/join/fxaitpjtog-alejandrasaldiv
 '''
 Calculadora de Propinas con Excepciones:
-p2_propinas.py
-
-Crea un programa que solicite al usuario el costo de una comida en un restaurante y el servicio recibido (bueno, regular o malo). Si el servicio es "malo", no aplica propina. Si el servicio es "regular", aplica una propina del 10%. Si el servicio es "bueno", aplica una propina del 15%. Además, maneja excepciones para asegurarte de que el usuario ingrese un servicio válido.
-1- Pedirle al usuario el costo de la comida CHECK
-2- Pedirle al usuario si el servicio fue bueno, regular o malo. CHECK
-3- Hacer mi condicional (malo=0%,regular=10%,bueno=15%) CHECK
-4- Hacer la operación del propinas
-5- Desplegar el resultado
 '''
 #Paso 1 y 2
 costo_comida = float(input("Dame el costo de la comida."))
